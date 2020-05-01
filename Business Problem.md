@@ -6,4 +6,4 @@ The objective for the company is to understand and analyse the neighbourhoods in
 
 ## Target Audience
 
-Such a study would be beneficial for anyone planning to setup a restaurant in Toronto. The analytics company can make use of this model for their other restaurant clients who are interested in understanding the ethnicity-income group-competitor landscape before setting up their base in Toronto.
+Such a study would be beneficial for anyone planning to setup a restaurant in Toronto. The analytics company can make use of this model for their other restaurant clients who are interested in understanding the ethnicity-competitor landscape before setting up their base in Toronto.
